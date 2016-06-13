@@ -12,3 +12,6 @@ TestResults/
 
 # StyleCop files
 StyleCop.Cache
+
+# Nuget dependencies
+packages/
